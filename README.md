@@ -32,6 +32,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Downloading embeddings
+
+Since the google embeddings file is heavy, it wont be provided. The repository below allows you to use git to download them as well as the mirror link:
+
+https://github.com/mmihaltz/word2vec-GoogleNews-vectors.git
+
+Download them and follow the instructions, then place the "GoogleNews-vectors-negative300.bin.gz" file under data/vecs.
+
+
 ## Running the Entity Classification
 To run the main code use the main.py script. The argument parser setup allows for you to run the file directly on your editor with the default arguments. To run from terminal:
 
