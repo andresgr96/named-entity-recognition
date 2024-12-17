@@ -1,0 +1,15 @@
+Class-wise Metrics:
+Class B-LOC: Precision: 0.790, Recall: 0.839, F1: 0.814
+Class B-MISC: Precision: 0.729, Recall: 0.698, F1: 0.713
+Class B-ORG: Precision: 0.764, Recall: 0.703, F1: 0.732
+Class B-PER: Precision: 0.878, Recall: 0.858, F1: 0.868
+Class I-LOC: Precision: 0.570, Recall: 0.541, F1: 0.555
+Class I-MISC: Precision: 0.683, Recall: 0.569, F1: 0.621
+Class I-ORG: Precision: 0.588, Recall: 0.582, F1: 0.585
+Class I-PER: Precision: 0.872, Recall: 0.877, F1: 0.875
+Class O: Precision: 0.986, Recall: 0.990, F1: 0.988
+Class macro avg: Precision: 0.762, Recall: 0.740, F1: 0.750
+Class weighted avg: Precision: 0.950, Recall: 0.951, F1: 0.950
+
+Overall Metrics:
+Precision: 0.950, Recall: 0.951, F1: 0.950

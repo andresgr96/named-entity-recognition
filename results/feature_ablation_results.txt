@@ -1,0 +1,7 @@
+baseline: 0.9501
+contains_digit: 0.9497
+chunk_tag: 0.9497
+next_pos_tag: 0.9485
+pos_tag: 0.9475
+prev_pos_tag: 0.9442
+embedding: 0.8722

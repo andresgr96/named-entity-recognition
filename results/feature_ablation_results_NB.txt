@@ -1,0 +1,15 @@
+prefix_2: 0.9294
+capitalized: 0.9280
+suffix_2: 0.9266
+pos_tag: 0.9265
+token_length_bin: 0.9265
+word_frequency: 0.9262
+prefix_3: 0.9260
+contains_digit: 0.9260
+baseline: 0.9260
+embedding: 0.9260
+chunk_tag: 0.9258
+suffix_3: 0.9236
+next_pos_tag: 0.9233
+token: 0.9225
+prev_pos_tag: 0.9189
